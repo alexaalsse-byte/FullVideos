@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SHAHZAIN SELL MELA - VIP BRAND</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+.topbar{background:#000;color:#FFD700;text-align:center;padding:12px;font-size:14px;font-weight:bold}
+header{display:flex;justify-content:space-between;align-items:center;padding:15px 30px;border-bottom:2px solid #FFD700;position:sticky;top:0;background:#fff;z-index:99}
+.logo{font-size:26px;font-weight:900} .logo span{color:#e60000} .vip{font-size:11px;background:#FFD700;padding:2px 6px;border-radius:10px}
+nav a{margin:0 12px;text-decoration:none;color:#000;font-weight:bold}
+.hero{background:linear-gradient(135deg,#000,#333);color:#fff;text-align:center;padding:60px 20px}
+.hero h1{font-size:44px} .hero h1 span{color:#FFD700}
+.hero p{margin:12px 0;font-size:18px}
+.hero a{background:#FFD700;color:#000;padding:14px 30px;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;display:inline-block}
+.container{display:flex;padding:20px;gap:20px}
+.filter{width:200px} .filter h3{margin-bottom:10px}
+.filter label{display:block;margin:8px 0}
+.products{flex:1;display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.card{border:1px solid #eee;border-radius:15px;overflow:hidden;text-align:center;padding-bottom:15px;box-shadow:0 2px 10px rgba(0,0,0,0.08)}
+.card img{width:100%;height:280px;object-fit:cover}
+.card h4{margin:10px 0 5px} .card h4 a{color:#000;text-decoration:none}
+.old{color:#999;text-decoration:line-through} .new{color:#e60000;font-weight:bold;font-size:19px}
+.badge{background:#e60000;color:#fff;padding:3px 10px;border-radius:20px;font-size:12px}
+.btn{display:block;margin:10px;background:#000;color:#fff;padding:12px;text-decoration:none;border-radius:8px;font-weight:bold}
+.btn2{display:block;margin:10px;background:#FFD700;color:#000;padding:12px;text-decoration:none;border-radius:8px;font-weight:bold}
+footer{background:#000;color:#fff;text-align:center;padding:25px;margin-top:20px}
+footer a{color:#FFD700}
+@media(max-width:700px){.products{grid-template-columns:repeat(2,1fr)} .filter{display:none} header{flex-direction:column} .hero h1{font-size:32px}}
+</style>
+</head>
+<body>
+
+<div class="topbar">⭐ SHAHZAIN SELL MELA - VIP BRAND ⭐ MEGA SALE UP TO 50% OFF ⭐</div>
+<header>
+<div class="logo">SHAHZAIN <span>SELL MELA</span> <span class="vip">VIP</span></div>
+<nav><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Home</a><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Jackets</a><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Hoodies</a><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Track Suits</a></nav>
+<div><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm" style="text-decoration:none;color:#000;font-weight:bold">🛒 Cart (0)</a></div>
+</header>
+
+<div class="hero">
+<h1>SHAHZAIN <span>SELL MELA</span></h1>
+<p>VIP BRAND - Sardiyon Ki Sab Se Sasti Or Garam Jackets</p>
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">SHOP NOW - SALE</a>
+</div>
+
+<div class="container">
+<div class="filter">
+<h3>Filter By</h3>
+<h4>Size</h4>
+<label><input type="checkbox"> Small</label>
+<label><input type="checkbox"> Medium</label>
+<label><input type="checkbox"> Large</label>
+<label><input type="checkbox"> XL</label>
+</div>
+
+<div class="products">
+
+<!-- 1 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="https://cdn.dsmcdn.com/ty1750/prod/QC_PREP/20250909/22/21e0c5ab-8ad5-3b83-8149-131fe4b1ff47/1_org_zoom.jpg"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Black Leather Jacket</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 4,999</span> <span class="new">Rs. 2,499</span></p>
+<p>⭐⭐⭐⭐⭐ (120)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+<!-- 2 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="https://img-opt.unicorngo.ru/?url=https://cdn.poizon.com/pro-img/origin-img/20240927/096ed54e4ed54682bb0345180ef5775a.jpg&w=640&q=75"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Brown Puffer Jacket</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 4,499</span> <span class="new">Rs. 1,999</span></p>
+<p>⭐⭐⭐⭐⭐ (98)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+<!-- 3 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="https://5.imimg.com/data5/VW/BS/MY-13250166/jeans-jacket-1000x1000.jpg"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Denim Jacket - Blue</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 3,999</span> <span class="new">Rs. 2,199</span></p>
+<p>⭐⭐⭐⭐ (85)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+<!-- 4 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="http://duboismodestore.shop/images/duboismodestore.shop/images/product/veste-hiver-decontractee-impermeable-capuche-homme-4.webp"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Hooded Winter Jacket</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 5,499</span> <span class="new">Rs. 2,899</span></p>
+<p>⭐⭐⭐⭐⭐ (150)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+<!-- 5 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="https://www.magcomsen.com/cdn/shop/products/Men_s-Jacket-Lightweight-Windbreaker-Bomber-Jacket-Windproof-Casual-Jacket-Outwear_9.jpg?v=1740793384&width=700"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Men's Bomber Jacket</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 3,499</span> <span class="new">Rs. 1,799</span></p>
+<p>⭐⭐⭐⭐ (70)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+<!-- 6 -->
+<div class="card">
+<a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm"><img src="https://i.ebayimg.com/images/g/o48AAOSwlKtkyowc/s-l1200.webp"></a>
+<h4><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Ladies Winter Jacket</a></h4>
+<p><span class="badge">VIP SALE</span></p>
+<p><span class="old">Rs. 4,299</span> <span class="new">Rs. 2,299</span></p>
+<p>⭐⭐⭐⭐⭐ (110)</p>
+<a class="btn" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">ADD TO CART</a>
+<a class="btn2" href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">BUY NOW</a>
+</div>
+
+</div>
+</div>
+
+<footer>© 2026 SHAHZAIN SELL MELA - VIP BRAND<br><br><a href="https://search.app/?link=https://search.shortg.xyz/r/q7zRhX9T5hVm">Visit Our Official Website</a><br><br>Cash On Delivery All Over Pakistan</footer>
+</body>
+</html>
+
+
+Mera code he is mn se mera number hata do or Link har jaga laga do okay Link add he ander ok 
+
+Number hata do bus
